@@ -26,7 +26,7 @@ Le fichier au format ZIP va se télécharger. Ouvrez le fichier ZIP avec Winrar 
 
 
 **Installer le Projet dans Android Studio**
-- Ouvrez Android Studio, cliquez sur l'onglet "File" en haut a gauche, ensuite choisissez "New" et cliquez sur "Import Projetc"
+- Ouvrez Android Studio, cliquez sur l'onglet "File" en haut a gauche, ensuite choisissez "New" et cliquez sur "Import Project"
 
 ![GitHub IMPORT](/3.jpg)
 
