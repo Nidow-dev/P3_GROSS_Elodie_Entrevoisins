@@ -51,11 +51,11 @@ Pour le lancer depuis un appareil virtuel, veuillez le sélectionner sur Android
 
 Votre appareil Virtuel est démarré, patientez quelques instant le temps que l'application s'installe sur l'appareil. 
 
-![GitHub Demarrage App](/8.jpg)
+![GitHub Demarrage App](/8.JPG)
 
 Vous pouvez maintenant naviguer dans l'application du projet lancée dessus.
 
-![GitHub Navigation App](/9.jpg)
+![GitHub Navigation App](/9.JPG)
 
 
 
